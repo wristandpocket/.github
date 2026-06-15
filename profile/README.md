@@ -3,6 +3,8 @@
 
   <br/>
 
+  [![Website](https://img.shields.io/badge/Website-wristandpocket.github.io-78CDC4?style=flat-square)](https://wristandpocket.github.io)
+  &nbsp;
   [![GitHub followers](https://img.shields.io/github/followers/wristandpocket?label=Follow&style=social)](https://github.com/wristandpocket)
   &nbsp;
   ![Profile Views](https://komarev.com/ghpvc/?username=wristandpocket&color=a95cd6&style=flat-square&label=Profile+Views)
@@ -29,43 +31,69 @@ const studio = {
     },
 
     currentProjects: [
-        "Project Pixel Dash 🚀",
+        "Cyberpunk 3D 🏙️",
+        "Feed Me, Loser! 🦖",
     ],
 
-    contact: "wristandpocket@gmail.com",
+    website: "https://wristandpocket.github.io",
+    contact: "wristandpocket.studio@gmail.com",
 };
 ```
 
 <br/>
 
-## 🚀 �𝚎�𝚊𝚝𝚞𝚛𝚎𝚍 𝙿𝚛𝚘𝚓𝚎𝚌𝚝
+## 🎮 𝙾𝚞𝚛 𝙶𝚊𝚖𝚎𝚜
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="600">
+<td align="center" width="350" valign="top">
 
-### 🎮 Project Pixel Dash
+### 🏙️ Cyberpunk 3D
 
-> *A high-speed platformer runner built for Android & Wear OS*
+> *First-of-its-kind 3D benchmark and stress test for Android smartwatches.*
 
-A lightning-fast mobile platformer focused on tight controls, satisfying progression, and peak runtime performance on constrained mobile and smartwatch hardware. Every millisecond counts.
+In this app, you won't just ride through a futuristic cyberpunk city—you'll measure the real performance power of your smartwatch.
 
 **Key Features:**
-- ⚡ Optimized Unity URP rendering pipeline
-- ⌚ Native Wear OS support & touch input
-- 📈 Adaptive difficulty system
-- 🎯 Tight, responsive platformer controls
+* ⚡ Squeezes every drop of performance from Wear OS hardware
+* 📈 Monitors FPS, battery temp, and frame stutters in real-time
+* ⌚ Native bezel and crown controls support
 
 <br/>
 
-[![Repository](https://img.shields.io/badge/Repository-Coming%20Soon-C77DFF?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Play Store](https://img.shields.io/badge/Play%20Store-Coming%20Soon-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](#)
+[![Explore Game](https://img.shields.io/badge/Explore-Game-78CDC4?style=for-the-badge&logo=jekyll&logoColor=white)](https://wristandpocket.github.io/games/cyberpunk-3d/)
+[![Join Beta](https://img.shields.io/badge/Join_Beta-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6vzt33SX9D)
+
+</td>
+<td align="center" width="350" valign="top">
+
+### 🦖 Feed Me, Loser!
+
+> *A hilarious satirical Tamagotchi-style virtual pet game for your wrist.*
+
+Take care of a demanding, cheeky monster. Feed it (don't let it overeat!), do sports together, and try to keep it alive.
+
+**Key Features:**
+* 🔋 Highly optimized dark OLED design to preserve battery
+* ⚙️ Custom haptic engine for physical vibration patterns
+* ⌚ Rotate mechanical bezel/crown for pet workouts
+
+<br/>
+
+[![Explore Game](https://img.shields.io/badge/Explore-Game-C77DFF?style=for-the-badge&logo=jekyll&logoColor=white)](https://wristandpocket.github.io/games/feed-me-loser/)
+[![Join Beta](https://img.shields.io/badge/Join_Beta-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6vzt33SX9D)
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<a href="https://wristandpocket.github.io/games/">
+  <img src="https://img.shields.io/badge/Explore%20All%20Games-Wrist%20%26%20Pocket%20Studio-78CDC4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Explore All Games" />
+</a>
 
 </div>
 
@@ -118,7 +146,7 @@ A lightning-fast mobile platformer focused on tight controls, satisfying progres
     <sub><b>Join Us!</b></sub>
   </a><br />
   <sub>We're growing 🌱</sub><br/>
-  <a href="mailto:wristandpocket@gmail.com" title="We are hiring">🚀</a>
+  <a href="mailto:wristandpocket.studio@gmail.com" title="We are hiring">🚀</a>
 </td>
 </tr>
 </table>
@@ -131,9 +159,9 @@ A lightning-fast mobile platformer focused on tight controls, satisfying progres
 
 <div align="center">
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Figarist&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Figarist&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Github stats" />
   &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figarist&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figarist&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" alt="Top languages stats" />
 
 </div>
 
