@@ -3,7 +3,7 @@
 
   <br/>
 
-  [![Website](https://img.shields.io/badge/Website-wristandpocket.github.io-78CDC4?style=flat-square)](https://wristandpocket.github.io)
+  [![Website](https://img.shields.io/badge/Website-wristandpocket.dev-78CDC4?style=flat-square)](https://wristandpocket.dev)
   &nbsp;
   [![GitHub followers](https://img.shields.io/github/followers/wristandpocket?label=Follow&style=social)](https://github.com/wristandpocket)
   &nbsp;
@@ -35,7 +35,7 @@ const studio = {
         "Feed Me, Loser! 🦖",
     ],
 
-    website: "https://wristandpocket.github.io",
+    website: "https://wristandpocket.dev",
     contact: "wristandpocket.studio@gmail.com",
 };
 ```
@@ -63,7 +63,7 @@ In this app, you won't just ride through a futuristic cyberpunk city—you'll me
 
 <br/>
 
-[![Explore Game](https://img.shields.io/badge/Explore-Game-78CDC4?style=for-the-badge&logo=jekyll&logoColor=white)](https://wristandpocket.github.io/games/cyberpunk-3d/)
+[![Explore Game](https://img.shields.io/badge/Explore-Game-78CDC4?style=for-the-badge&logo=jekyll&logoColor=white)](https://wristandpocket.dev/games/cyberpunk-3d/)
 [![Join Beta](https://img.shields.io/badge/Join_Beta-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6vzt33SX9D)
 
 </td>
@@ -82,7 +82,7 @@ Take care of a demanding, cheeky monster. Feed it (don't let it overeat!), do sp
 
 <br/>
 
-[![Explore Game](https://img.shields.io/badge/Explore-Game-C77DFF?style=for-the-badge&logo=jekyll&logoColor=white)](https://wristandpocket.github.io/games/feed-me-loser/)
+[![Explore Game](https://img.shields.io/badge/Explore-Game-C77DFF?style=for-the-badge&logo=jekyll&logoColor=white)](https://wristandpocket.dev/games/feed-me-loser/)
 [![Join Beta](https://img.shields.io/badge/Join_Beta-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6vzt33SX9D)
 
 </td>
@@ -91,7 +91,7 @@ Take care of a demanding, cheeky monster. Feed it (don't let it overeat!), do sp
 
 <br/>
 
-<a href="https://wristandpocket.github.io/games/">
+<a href="https://wristandpocket.dev/games/">
   <img src="https://img.shields.io/badge/Explore%20All%20Games-Wrist%20%26%20Pocket%20Studio-78CDC4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Explore All Games" />
 </a>
 
