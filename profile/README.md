@@ -141,6 +141,14 @@ Take care of a demanding, cheeky monster. Feed it (don't let it overeat!), do sp
   <a href="https://github.com/Figarist" title="Code">💻</a> <a href="https://github.com/Figarist" title="Design">🎨</a>
 </td>
 <td align="center">
+  <a href="https://github.com/Nikitiya">
+    <img src="https://github.com/Nikitiya.png" width="100px;" alt="Nikitiya"/><br />
+    <sub><b>Nikitiya</b></sub>
+  </a><br />
+  <sub>QA & Lead Tester</sub><br/>
+  <a href="https://github.com/Nikitiya" title="Quality Assurance">🔍</a> <a href="https://github.com/Nikitiya" title="Testing">🧪</a>
+</td>
+<td align="center">
   <a href="#">
     <img src="https://placehold.co/100x100/1a1a1a/a95cd6?text=?" width="100px;" alt="Join Us!"/><br />
     <sub><b>Join Us!</b></sub>
