@@ -3,7 +3,9 @@
 
   <br/>
 
-  [![Website](https://img.shields.io/badge/Website-wristandpocket.dev-78CDC4?style=flat-square)](https://wristandpocket.dev)
+  [![Website](https://img.shields.io/badge/Website-wristandpocket.dev-78CDC4?style=flat-square)](https://wristandpocket.dev/)
+  &nbsp;
+  [![Founder](https://img.shields.io/badge/Founder-sivochka.com-C77DFF?style=flat-square)](https://sivochka.com/)
   &nbsp;
   [![GitHub followers](https://img.shields.io/github/followers/wristandpocket?label=Follow&style=social)](https://github.com/wristandpocket)
   &nbsp;
@@ -17,12 +19,12 @@
 ```typescript
 const studio = {
     name: "Wrist And Pocket",
+    founder: "Ihor Sivochka (Figarist)",
     location: "Kharkiv, Ukraine 🇺🇦",
     status: "Active & Building 🚧",
     founded: 2026,
 
     specialization: "Exclusive Android & Wear OS Game Development",
-
     philosophy: "We are obsessed with Unity game optimization and maximizing performance on mobile hardware.",
 
     platforms: {
@@ -33,9 +35,12 @@ const studio = {
     currentProjects: [
         "Cyberpunk 3D 🏙️",
         "Feed Me, Loser! 🦖",
+        "WearView 3D Smartwatch Previewer ⌚"
     ],
 
     website: "https://wristandpocket.dev",
+    founderHub: "https://sivochka.com",
+    tutoring: "https://sivochka.com/tutoring/",
     contact: "wristandpocket.studio@gmail.com",
 };
 ```
@@ -99,6 +104,16 @@ Take care of a demanding, cheeky monster. Feed it (don't let it overeat!), do sp
 
 <br/>
 
+## 🛠️ 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚃𝚘𝚘𝚕𝚜 & 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎
+
+| Tool / Library | Purpose | Live / Docs | GitHub Repo |
+| --- | --- | --- | --- |
+| ⌚ **WearView 3D** | Physically-aware 3D smartwatch previewer for 21 Wear OS devices, safe-zone overlay, 1:1 bank/ID card calibration & OLED AOD checker | [Live App](https://wristandpocket.dev/wearview/) · [Overview](https://wristandpocket.dev/tools/wearview/) | [wristandpocket/wearview](https://github.com/wristandpocket/wearview) |
+| 🎨 **Wrist & Pocket UI** | Zero-dependency dark design system (`--wp-*` tokens, WCAG AA/AAA contrast, offline fonts) powering `wristandpocket.dev` & WearView | [Studio Site](https://wristandpocket.dev/) | [Figarist/wrist-pocket-ui](https://github.com/Figarist/wrist-pocket-ui) |
+| 🌐 **Studio Website** | Quadrilingual (`EN`, `UK`, `RU`, `KO`) Jekyll static hub & dev blog | [wristandpocket.dev](https://wristandpocket.dev/) | [wristandpocket/wristandpocket.github.io](https://github.com/wristandpocket/wristandpocket.github.io) |
+
+<br/>
+
 ## 🛠️ 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
 
 <div align="center">
@@ -135,10 +150,10 @@ Take care of a demanding, cheeky monster. Feed it (don't let it overeat!), do sp
 <td align="center">
   <a href="https://github.com/Figarist">
     <img src="https://github.com/Figarist.png" width="100px;" alt="Figarist"/><br />
-    <sub><b>Figarist</b></sub>
+    <sub><b>Ihor Sivochka (Figarist)</b></sub>
   </a><br />
-  <sub>Founder · Dev · Designer</sub><br/>
-  <a href="https://github.com/Figarist" title="Code">💻</a> <a href="https://github.com/Figarist" title="Design">🎨</a>
+  <sub>Founder · Dev · Mentor</sub><br/>
+  <a href="https://sivochka.com/" title="Personal Hub">🌐 sivochka.com</a> · <a href="https://sivochka.com/tutoring/" title="1-on-1 Tutoring">🎓 Tutoring</a>
 </td>
 <td align="center">
   <a href="https://github.com/Nikitiya">
@@ -149,7 +164,7 @@ Take care of a demanding, cheeky monster. Feed it (don't let it overeat!), do sp
   <a href="https://github.com/Nikitiya" title="Quality Assurance">🔍</a> <a href="https://github.com/Nikitiya" title="Testing">🧪</a>
 </td>
 <td align="center">
-  <a href="#">
+  <a href="mailto:wristandpocket.studio@gmail.com">
     <img src="https://placehold.co/100x100/1a1a1a/a95cd6?text=?" width="100px;" alt="Join Us!"/><br />
     <sub><b>Join Us!</b></sub>
   </a><br />
@@ -167,9 +182,9 @@ Take care of a demanding, cheeky monster. Feed it (don't let it overeat!), do sp
 
 <div align="center">
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Figarist&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Github stats" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figarist&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" alt="Top languages stats" />
+  <img src="https://raw.githubusercontent.com/Figarist/Figarist/main/profile-summary-card-output/synthwave/0-profile-details.svg" width="85%" alt="Founder GitHub Profile Details" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/Figarist/Figarist/main/profile-summary-card-output/synthwave/3-stats.svg" width="85%" alt="Founder GitHub Stats" />
 
 </div>
 
@@ -181,6 +196,6 @@ Take care of a demanding, cheeky monster. Feed it (don't let it overeat!), do sp
 
   **💜 𝙲𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚙𝚊𝚜𝚜𝚒𝚘𝚗 | 𝙴𝚜𝚝. 𝟸𝟶𝟸𝟼 | 𝙺𝚑𝚊𝚛𝚔𝚒𝚟, 𝚄𝚔𝚛𝚊𝚒𝚗𝚎 🇺🇦 💜**
 
-  <sub>© 2026 Wrist And Pocket · All games crafted with 💜 for mobile players</sub>
+  <sub>© 2026 Wrist And Pocket · [wristandpocket.dev](https://wristandpocket.dev/) · Founder: [Ihor Sivochka (sivochka.com)](https://sivochka.com/)</sub>
 
 </div>
