@@ -5,6 +5,10 @@
 
   [![Website](https://img.shields.io/badge/Website-wristandpocket.dev-78CDC4?style=flat-square)](https://wristandpocket.dev/)
   &nbsp;
+  [![WearView 3D](https://img.shields.io/badge/Tool-WearView%203D-00B4D8?style=flat-square)](https://wristandpocket.dev/wearview/)
+  &nbsp;
+  [![WearView Docs](https://img.shields.io/badge/Docs-WearView%20FAQ-38BDF8?style=flat-square)](https://wristandpocket.dev/tools/wearview/)
+  &nbsp;
   [![Founder](https://img.shields.io/badge/Founder-sivochka.com-C77DFF?style=flat-square)](https://sivochka.com/)
   &nbsp;
   [![GitHub followers](https://img.shields.io/github/followers/wristandpocket?label=Follow&style=social)](https://github.com/wristandpocket)
@@ -39,6 +43,8 @@ const studio = {
     ],
 
     website: "https://wristandpocket.dev",
+    wearviewApp: "https://wristandpocket.dev/wearview/",
+    wearviewDocs: "https://wristandpocket.dev/tools/wearview/",
     founderHub: "https://sivochka.com",
     tutoring: "https://sivochka.com/tutoring/",
     contact: "wristandpocket.studio@gmail.com",
@@ -106,11 +112,22 @@ Take care of a demanding, cheeky monster. Feed it (don't let it overeat!), do sp
 
 ## 🛠️ 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚃𝚘𝚘𝚕𝚜 & 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎
 
+### ⌚ Featured Developer Tool: [WearView 3D Smartwatch Previewer](https://wristandpocket.dev/wearview/)
+Inspect Wear OS watch faces, game HUDs, and circular UI layouts on **21 real smartwatch models** across 4 hardware families (*Samsung Galaxy Watch*, *Google Pixel Watch*, *OnePlus Watch*, *Xiaomi Watch*) in real-time 3D right in the browser:
+- **Physical Ergonomics Pack:** circular & rectangular safe-zone overlays (`Safe` / `Border` / `Danger` / `Grid` + chin cutout), 14mm translucent finger-pad touch-target check, and live **OLED AOD burn-in & OPR (`<10%`)** analyzer.
+- **True 1:1 Physical Scale:** bank/ID card (ISO/IEC 7810 ID-1) DPI calibration so a 40mm–47mm watch renders at exact millimeter dimensions on any monitor.
+- **Multilingual Docs & Specs:** [English](https://wristandpocket.dev/tools/wearview/) · [Українська](https://wristandpocket.dev/uk/tools/wearview/) · [Русский](https://wristandpocket.dev/ru/tools/wearview/) · [한국어](https://wristandpocket.dev/ko/tools/wearview/)
+
 | Tool / Library | Purpose | Live / Docs | GitHub Repo |
 | --- | --- | --- | --- |
-| ⌚ **WearView 3D** | Physically-aware 3D smartwatch previewer for 21 Wear OS devices, safe-zone overlay, 1:1 bank/ID card calibration & OLED AOD checker | [Live App](https://wristandpocket.dev/wearview/) · [Overview](https://wristandpocket.dev/tools/wearview/) | [wristandpocket/wearview](https://github.com/wristandpocket/wearview) |
+| ⌚ **WearView 3D** | Physically-aware 3D smartwatch previewer for 21 Wear OS devices, safe-zone overlay, 1:1 bank/ID card calibration & OLED AOD checker | [Live App](https://wristandpocket.dev/wearview/) · [Overview & 21-Watch Specs](https://wristandpocket.dev/tools/wearview/) | [wristandpocket/wearview](https://github.com/wristandpocket/wearview) |
 | 🎨 **Wrist & Pocket UI** | Zero-dependency dark design system (`--wp-*` tokens, WCAG AA/AAA contrast, offline fonts) powering `wristandpocket.dev` & WearView | [Studio Site](https://wristandpocket.dev/) | [Figarist/wrist-pocket-ui](https://github.com/Figarist/wrist-pocket-ui) |
 | 🌐 **Studio Website** | Quadrilingual (`EN`, `UK`, `RU`, `KO`) Jekyll static hub & dev blog | [wristandpocket.dev](https://wristandpocket.dev/) | [wristandpocket/wristandpocket.github.io](https://github.com/wristandpocket/wristandpocket.github.io) |
+
+### 📖 Wear OS Engineering Blog & Guides
+- 🛡️ [**Wear OS Safe Zones, 14mm Touch Targets & OLED AOD `<10%` OPR Guide**](https://wristandpocket.dev/blog/wearos-safe-zones-aod-opr-ergonomics/) ([Українська](https://wristandpocket.dev/uk/blog/wearos-safe-zones-aod-opr-ergonomics/))
+- 🔍 [**Why Flat Wear OS Screenshots Lie — 3D Bezel & Ergonomics Testing**](https://wristandpocket.dev/blog/stop-trusting-wear-os-screenshots/) ([Українська](https://wristandpocket.dev/uk/blog/stop-trusting-wear-os-screenshots/))
+- 🎮 [**What Makes a Great Wear OS Game?**](https://wristandpocket.dev/blog/what-makes-good-wear-os-game/) ([Українська](https://wristandpocket.dev/uk/blog/what-makes-good-wear-os-game/))
 
 <br/>
 
