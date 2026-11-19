@@ -46,7 +46,6 @@ const studio = {
     wearviewApp: "https://wristandpocket.dev/wearview/",
     wearviewDocs: "https://wristandpocket.dev/tools/wearview/",
     founderHub: "https://sivochka.com",
-    tutoring: "https://sivochka.com/tutoring/",
     contact: "wristandpocket.studio@gmail.com",
 };
 ```
@@ -63,38 +62,36 @@ const studio = {
 
 ### 🏙️ Cyberpunk 3D
 
-> *First-of-its-kind 3D benchmark and stress test for Android smartwatches.*
+> *Wear OS 3D game set in a real-time neon city — the studio's SDK pilot project, now in testing.*
 
-In this app, you won't just ride through a futuristic cyberpunk city—you'll measure the real performance power of your smartwatch.
+Built for short sessions on a round watch screen, with a high-contrast dark neon presentation and rotary bezel/crown input.
 
 **Key Features:**
-* ⚡ Squeezes every drop of performance from Wear OS hardware
-* 📈 Monitors FPS, battery temp, and frame stutters in real-time
-* ⌚ Native bezel and crown controls support
+* ⌚ Built specifically for round Wear OS watch screens
+* 🌆 Real-time dark, neon-heavy 3D scene for short sessions
+* 🎛️ Rotary bezel and digital crown controls
 
 <br/>
 
 [![Explore Game](https://img.shields.io/badge/Explore-Game-78CDC4?style=for-the-badge&logo=jekyll&logoColor=white)](https://wristandpocket.dev/games/cyberpunk-3d/)
-[![Join Beta](https://img.shields.io/badge/Join_Beta-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6vzt33SX9D)
 
 </td>
 <td align="center" width="350" valign="top">
 
 ### 🦖 Feed Me, Loser!
 
-> *A hilarious satirical Tamagotchi-style virtual pet game for your wrist.*
+> *Satirical Tamagotchi-style virtual pet concept for Wear OS (legacy maintenance).*
 
-Take care of a demanding, cheeky monster. Feed it (don't let it overeat!), do sports together, and try to keep it alive.
+A satirical virtual pet concept built for 15–60 second wrist sessions — feed, care for, and exercise a demanding little monster.
 
 **Key Features:**
-* 🔋 Highly optimized dark OLED design to preserve battery
-* ⚙️ Custom haptic engine for physical vibration patterns
-* ⌚ Rotate mechanical bezel/crown for pet workouts
+* ⌚ Designed for 15–60 second watch-sized sessions
+* 🔋 Dark OLED-friendly contrast for round screens
+* 🎛️ Rotary bezel/crown workout mechanic
 
 <br/>
 
 [![Explore Game](https://img.shields.io/badge/Explore-Game-C77DFF?style=for-the-badge&logo=jekyll&logoColor=white)](https://wristandpocket.dev/games/feed-me-loser/)
-[![Join Beta](https://img.shields.io/badge/Join_Beta-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6vzt33SX9D)
 
 </td>
 </tr>
@@ -121,7 +118,7 @@ Inspect Wear OS watch faces, game HUDs, and circular UI layouts on **21 real sma
 | Tool / Library | Purpose | Live / Docs | GitHub Repo |
 | --- | --- | --- | --- |
 | ⌚ **WearView 3D** | Physically-aware 3D smartwatch previewer for 21 Wear OS devices, safe-zone overlay, 1:1 bank/ID card calibration & OLED AOD checker | [Live App](https://wristandpocket.dev/wearview/) · [Overview & 21-Watch Specs](https://wristandpocket.dev/tools/wearview/) | [wristandpocket/wearview](https://github.com/wristandpocket/wearview) |
-| 🎨 **Wrist & Pocket UI** | Zero-dependency dark design system (`--wp-*` tokens, WCAG AA/AAA contrast, offline fonts) powering `wristandpocket.dev` & WearView | [Studio Site](https://wristandpocket.dev/) | [Figarist/wrist-pocket-ui](https://github.com/Figarist/wrist-pocket-ui) |
+| 🎨 **Wrist & Pocket UI** | Zero-dependency dark design system (`--wp-*` tokens, WCAG AA/AAA contrast, offline fonts) powering `wristandpocket.dev` & WearView | [Live Styleguide](https://sivochka.com/wrist-pocket-ui/) · [Studio Site](https://wristandpocket.dev/) | [Figarist/wrist-pocket-ui](https://github.com/Figarist/wrist-pocket-ui) |
 | 🌐 **Studio Website** | Quadrilingual (`EN`, `UK`, `RU`, `KO`) Jekyll static hub & dev blog | [wristandpocket.dev](https://wristandpocket.dev/) | [wristandpocket/wristandpocket.github.io](https://github.com/wristandpocket/wristandpocket.github.io) |
 
 ### 📖 Wear OS Engineering Blog & Guides
@@ -135,7 +132,7 @@ Inspect Wear OS watch faces, game HUDs, and circular UI layouts on **21 real sma
 
 <div align="center">
 
-![Unity](https://img.shields.io/badge/Unity-6000.3%20URP-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-6%20URP-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Wear OS](https://img.shields.io/badge/Wear_OS-4285F4?style=for-the-badge&logo=wearos&logoColor=white)
@@ -170,7 +167,7 @@ Inspect Wear OS watch faces, game HUDs, and circular UI layouts on **21 real sma
     <sub><b>Ihor Sivochka (Figarist)</b></sub>
   </a><br />
   <sub>Founder · Dev · Mentor</sub><br/>
-  <a href="https://sivochka.com/" title="Personal Hub">🌐 sivochka.com</a> · <a href="https://sivochka.com/tutoring/" title="1-on-1 Tutoring">🎓 Tutoring</a>
+  <a href="https://sivochka.com/" title="Personal Hub">🌐 sivochka.com</a> · <a href="https://wristandpocket.dev/" title="Studio Website">⌚ wristandpocket.dev</a>
 </td>
 <td align="center">
   <a href="https://github.com/Nikitiya">
